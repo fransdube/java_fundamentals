@@ -10,7 +10,15 @@ class ArithmeticOperators {
 
     public static void main(String[] args) {
 
-        // write your code below
+       int num1 = 40;
+       int num2 = 30;
+        
+       System.out.println("My answer is "+ (num1 + num2));
+       System.out.println("My answer is "+ (num1 - num2));
+       System.out.println("My answer is "+ (num1 / num2));
+       System.out.println("My answer is "+ (num1 * num2));
+       System.out.println("My answer is "+ (num1 % num2));
+        
 
     }
 
