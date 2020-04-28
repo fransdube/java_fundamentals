@@ -2,6 +2,7 @@ package labs_examples.datatypes_operators.labs;
 
 import java.util.Scanner;
 
+
 /**
  * Fundamentals Exercise 5: Days to seconds
  *
@@ -16,14 +17,16 @@ public class Exercise_07 {
 
     public static void main(String[] args) {
 
-        // create scanner
-        Scanner scanner = new Scanner(System.in);
-        // prompt user
-        System.out.print("Enter a number in days between 1 and 1,000,000: ");
-        // assign input to variable as int
-        int days = scanner.nextInt();
+        long days;
 
-        // write completed code here
+        Scanner in = new Scanner(System.in);
+
+        System.out.println("Please enter days:");
+        days = in.nextLong();
+
+        long seconds = days * 24 * 60 * 60;
+
+        System.out.println(seconds + " Seconds");
 
     }
 }
