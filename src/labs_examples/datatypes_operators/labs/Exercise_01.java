@@ -17,7 +17,7 @@ public class Exercise_01 {
     public static void main(String[] args) {
 
         int myInt = 1;
-        double myDouble = 45,8d;
+        double myDouble = 45.8d;
         float myFloat = 345.89f;
         char myChar = 'a';
         
