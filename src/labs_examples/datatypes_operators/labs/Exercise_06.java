@@ -14,9 +14,9 @@ public class Exercise_06 {
 
         // write code here
         
-        float radius = 3.14f;
-        int height = 5;
-        double pi= 3.142;
+        float radius = 4.14f;
+        int height = 6;
+        double pi= 4.142;
         
         System.out.println((radius*height)*(pi*2));
 

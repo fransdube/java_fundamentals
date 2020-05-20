@@ -10,6 +10,3 @@ package labs_examples.arrays.labs;
  *
  */
 
-public class Exercise_01 {
-
-}

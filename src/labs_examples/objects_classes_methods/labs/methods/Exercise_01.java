@@ -17,6 +17,7 @@ public class Exercise_01 {
     //    returns the result of a * b
 
 
+
     // 2) Create a static divide() method below that takes two int arguments (int a, int b) and
     //    returns the result of a / b
 
