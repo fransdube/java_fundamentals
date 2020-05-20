@@ -18,9 +18,9 @@ class TwoVehicles {
         int range1, range2;
 
         // assign values to fields in minivan
-        minivan.passengers = 7;
-        minivan.fuelcap = 16;
-        minivan.mpg = 21;
+        minivan.passengers = 9;
+        minivan.fuelcap = 26;
+        minivan.mpg = 31;
 
         // assign values to fields in sportscar
         sportscar.passengers = 2;
