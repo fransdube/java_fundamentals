@@ -9,7 +9,7 @@ class Inches {
         long ci;
         long im;
 
-        im = 5280 * 12;
+        im = 5280 * 17;
 
         ci = im * im * im;
 
