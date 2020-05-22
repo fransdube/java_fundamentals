@@ -10,7 +10,7 @@ class Hypot {
     public static void main(String args[]) {
         double x, y, z;
 
-        x = 3;
+        x = 7;
         y = 4;
 
         // calls sqrt() method from Math class
